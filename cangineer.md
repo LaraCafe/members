@@ -12,6 +12,12 @@ cangineer(けんじにあ)こと木村友真です。
 - js
  - jQuery
  - React（チョット岳）
+- PHP
+ - Laravel
+- Ruby
+ - rails（チョット岳）
+- java
+- C#
 
 # 好きなもの
 - ゲーム
